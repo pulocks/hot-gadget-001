@@ -1,0 +1,37 @@
+.container{
+    margin-top: 50px
+}
+.logo{
+    margin-right: 200px
+}
+.bg-carousel{
+    background-color: rgb(245, 194, 202)
+}
+.carousel-item{
+    margin: 20px;
+    padding: 30px
+}
+.main-button{
+    height: 40px;
+    width: 120px;
+    background-color: black;
+    color: white;
+    border-radius: 8px
+}
+.card-footer, .card-body{
+    text-align: center;
+    border: none
+}
+.card{
+    margin-right: 20px;
+    border: none;
+    box-shadow: 10px 10px 20px lightgray;
+    padding: 10px
+}
+#smartphone, #laptop{
+    cursor: pointer;
+}
+.categories h2{
+    margin-bottom: 50px;
+    color: goldenrod;
+}
